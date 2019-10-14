@@ -1,0 +1,31 @@
+BAS_IMAGE_FILE
+test
+
+100
+100
+16
+4000
+2000
+4000
+4
+Mon Oct 8 19:44:58 2012
+1349739898
+
+FLA-7000
+
+*** more info ***
+14
+S,RangeLow=0
+S,RangeHigh=49888
+S,ScaleType=Exponential
+S,MethodName=[IP]
+S,LaserName=LD650
+S,FilterName=[IP]
+H,LaserPower=High
+H,NDFilter=Off
+H,SubCompressionRate=2/3
+S,ShadingData=IP_2009-09-22T13:39:23
+H,Hot/ColdPixel=On
+H,Smoothing=Off
+H,PolygonFaceCorrection=On
+H,Chidori=Off
